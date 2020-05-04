@@ -2,5 +2,8 @@
     "version": "1.6",
     "description": "Open Enclave Prerequisites",
     "depends": ["nuget"],
-    "url":"http://registrationcenter-download.intel.com/akdlm/irc_nas/16620/Intel%20SGX%20DCAP%20for%20Windows%20v1.6.100.2.exe#/dl.7z"
+    "url":"http://registrationcenter-download.intel.com/akdlm/irc_nas/16620/Intel%20SGX%20DCAP%20for%20Windows%20v1.6.100.2.exe#/dl.7z",
+    "post-install": [
+        "nuget install EnclaveCommonAPI -ExcludeVersion -Source \"1.6\\Intel SGX DCAP for Windows v1.6.100.2\\nuget\" -OutputDirectory c:\\oe_prereqs"
+    ]
 }

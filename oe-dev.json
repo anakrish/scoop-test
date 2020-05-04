@@ -3,5 +3,12 @@
     "description": "Setup Open Enclave development environment",
     "url": "https://github.com/anakrish/scoop-test.git",
     "license": ["MIT"],
-    "depends":["git", "llvm", "nuget", "ocaml", "openssl", "python", "shellcheck"]
+    "depends":[
+        "cmake",
+        "llvm",
+        "nuget",
+        "ocaml",
+        "openssl",
+        "python",
+        "shellcheck"]
 }
