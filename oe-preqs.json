@@ -1,0 +1,6 @@
+{
+    "version": "1.6",
+    "description": "Open Enclave Prerequisites",
+    "depends": ["nuget"],
+    "url":"http://registrationcenter-download.intel.com/akdlm/irc_nas/16620/Intel%20SGX%20DCAP%20for%20Windows%20v1.6.100.2.exe"
+}
