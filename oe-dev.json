@@ -1,5 +1,6 @@
 {
     "version": "0.10",
+    "description": "Setup Open Enclave development environment",
     "license": ["MIT"],
     "architecture": {
         "64bit":{}
