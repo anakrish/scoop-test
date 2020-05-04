@@ -1,9 +1,7 @@
 {
     "version": "0.10",
     "description": "Setup Open Enclave development environment",
+    "url": "https://github.com/openenclave/openenclave.git",
     "license": ["MIT"],
-    "architecture": {
-        "64bit":{}
-    },
     "depends":["git", "nuget", "ocaml", "openssl"]
 }
