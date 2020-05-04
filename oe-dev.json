@@ -1,9 +1,8 @@
 {
     "version": "0.10",
     "description": "Setup Open Enclave development environment",
-    "url": "https://github.com/anakrish/scoop-test/raw/master/bash.zip",
+    "url": "https://github.com/anakrish/scoop-test.git",
     "hash":"67d912b267e4eb37f376ba16c17cb4188fb228450000ec2c888531f6ec8f652e",
     "license": ["MIT"],
-    "depends":["git", "llvm", "nuget", "ocaml", "openssl", "python"],
-    "bin": ["bash.bat"]
+    "depends":["git", "llvm", "nuget", "ocaml", "openssl", "python"]
 }
