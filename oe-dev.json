@@ -1,8 +1,8 @@
 {
     "version": "0.10",
     "description": "Setup Open Enclave development environment",
-    "url": "https://github.com/openenclave/openenclave.git",
+    "url": "https://github.com/anakrish/scoop-test/raw/master/bash.zip",
     "license": ["MIT"],
     "depends":["git", "llvm", "nuget", "ocaml", "openssl", "python"],
-    "env_add_path":"../../git/current/bin"
+    "bin": ["bash.cmd"]
 }
