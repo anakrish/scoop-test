@@ -1,5 +1,8 @@
 {
     "version": "0.10",
     "license": ["MIT"],
+    "architecture": {
+        "64bit":{}
+    },
     "depends":["git", "nuget", "ocaml", "openssl"]
 }
