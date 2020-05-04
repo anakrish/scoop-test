@@ -2,6 +2,7 @@
     "version": "4.02.1", 
     "license": "OCPWin License",
     "url": "http://www.ocamlpro.com/pub/ocpwin/ocpwin-builds/ocpwin64/20160113/ocpwin64-20160113-4.02.1+ocp1-mingw64.zip", 
+    "hash":"369f900f7cda543abf674520ed6004cc75008e10beed0d34845e8a42866d0f3a",
     "bin": [
         "4.02.1+ocp1-mingw64-20160113/bin/ar.exe",
         "4.02.1+ocp1-mingw64-20160113/bin/ld.exe",
