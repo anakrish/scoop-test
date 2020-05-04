@@ -4,7 +4,5 @@
     "url": "https://github.com/openenclave/openenclave.git",
     "license": ["MIT"],
     "depends":["git", "llvm", "nuget", "ocaml", "openssl", "python"],
-    "bin":[
-        "%GIT_INSTALL_ROOT%/bin/bash.exe"
-    ]
+    "env_add_path":"../../git/current/bin"
 }
