@@ -2,7 +2,7 @@
     "version": "0.10",
     "description": "Setup Open Enclave development environment",
     "url": "https://github.com/anakrish/scoop-test.git",
-    "hash":"67d912b267e4eb37f376ba16c17cb4188fb228450000ec2c888531f6ec8f652e",
+    "hash": "0ace37fa8504e28991334933c640121d08548d3bff5a717f0ebf23f78aea4ac7",
     "license": ["MIT"],
     "depends":["git", "llvm", "nuget", "ocaml", "openssl", "python"]
 }
