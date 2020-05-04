@@ -3,5 +3,5 @@
     "description": "Setup Open Enclave development environment",
     "url": "https://github.com/openenclave/openenclave.git",
     "license": ["MIT"],
-    "depends":["git", "nuget", "ocaml", "openssl"]
+    "depends":["git", "llvm", "nuget", "ocaml", "openssl", "python"]
 }
